@@ -1,11 +1,7 @@
-# Autumn Menu Checklist
+# Autumn Menu Checklist (draft, abandoned)
 
-> Placeholder. This checklist was carried over from last season and has not been regenerated.
-
-## Development TODOs
-
-<!-- regenerate from menu/ on the autumn feature branch -->
-
-## Featured Seafood Dishes
-
-<!-- to be filled at the autumn launch -->
+| Item | Location | Note |
+| --- | --- | --- |
+| seasonal draft | menu/seasonal_legacy.py:8 | decide pumpkin rotation |
+| garnish cleanup | menu/seasonal_legacy.py:13 | retire the summer garnish list |
+| window | menu/seasonal_legacy.py:18 | confirm the draft month window |

@@ -1,6 +1,3 @@
-# PantryOps
+# PantryOps (legacy autumn draft)
 
-Kitchen operations platform for the PantryOps restaurant group.
-
-The default branch holds the summer build. Seasonal work is developed on
-feature branches before it is merged.
+Abandoned autumn draft kept only for archaeology. Do not use for the launch.

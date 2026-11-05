@@ -1,1 +1,1 @@
-"""PantryOps menu package (summer build)."""
+"""Legacy autumn draft package."""
